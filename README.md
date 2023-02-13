@@ -4,6 +4,8 @@
 
 A movie, series and game soundtrack app with a login and registration system developed with React.
 
+⚠️Some parts of the code may be written in Portuguese-BR, please use google translator if you need.
+
 ---
 
 <!---- ## 👁️‍🗨️ Preview Some of Them
